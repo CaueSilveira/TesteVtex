@@ -1,7 +1,7 @@
 import React from "react";
 
 const WishlistButton = () => {
-  return <div>Hello World</div>;
+  return <div>Add To Wishlist</div>;
 };
 
 export default WishlistButton;

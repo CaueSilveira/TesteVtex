@@ -1,5 +1,5 @@
 {
-  "custom-wishlistButton": {
+  "wishlist-button": {
     "component": "WishlistButton"
   }
 }

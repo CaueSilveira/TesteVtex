@@ -71,7 +71,8 @@
     "frameworkdigitalpartnerbr.address-locator": "1.x"
   },
   "peerDependencies": {
-    "vtex.geocms-store-locator": "0.x"
+    "vtex.geocms-store-locator": "0.x",
+    "vtex.wish-list": "1.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
