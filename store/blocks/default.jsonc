@@ -49,7 +49,7 @@
       "preventVerticalStretch": true
     },
     "children": [
-      "flex-layout.col#address-locator"
+      // "flex-layout.col#address-locator"
     ]
   }
 }

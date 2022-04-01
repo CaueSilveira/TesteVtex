@@ -1,7 +1,3 @@
-import React from "react";
+import WishlistButton from './components/WishListButton'
 
-const WishlistButton = () => {
-  return <div>Add To Wishlist</div>;
-};
-
-export default WishlistButton;
+export default WishlistButton

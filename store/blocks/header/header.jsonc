@@ -24,7 +24,7 @@
     },
     "children": [
       "flex-layout.col#logo-desktop",
-      "flex-layout.col#address-locator",
+      // "flex-layout.col#address-locator",
       "flex-layout.col#spacer",
       "search-bar",
       "locale-switcher",
@@ -32,13 +32,13 @@
       "minicart.v2"
     ]
   },
-  "flex-layout.col#address-locator": {
-    "props": {
-      "verticalAlign": "middle",
-      "blockClass": "address-locator-search"
-    },
-    "children": ["address-manager"]
-  },
+  // "flex-layout.col#address-locator": {
+  //   "props": {
+  //     "verticalAlign": "middle",
+  //     "blockClass": "address-locator-search"
+  //   },
+  //   "children": ["address-manager"]
+  // },
   "flex-layout.col#spacer": {
     "props": {
       "width": "grow"
